@@ -1,0 +1,31 @@
+.cal_trigger {
+    border-style: solid; 
+    border-width: 1px; 
+    width:200px;
+    border-radius: 3px;
+}
+
+/*
+ * Globals
+ */
+
+body {
+  font-family: 'Noto Sans Japanese', sans-serif;
+  color: #555;
+}
+
+.footer {
+  padding: 10px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.footer p:last-child {
+  margin-bottom: 0;
+}
+.tltle_selector {
+  color:red;
+  font-weight:bold;
+}
+
